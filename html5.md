@@ -44,7 +44,7 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 # Tags
 
 | Tag | Description |
-| :--- | :--- |
+| :-- | :------ |
 | &lt;!-- --&gt; | Defines a comment tag. Comment tags are used to annotate HTML code. They will not display on a web page. |
 | &lt;!DOCTYPE&gt; | Defines the document type. In most cases this will be html. There are older versions of html doctypes as well as completely different types e.g. XML |
 
