@@ -35,7 +35,7 @@ The html tags contain all the html elements. Using the lang attribute in the ope
 
 The head tags contain links to related documents that contain other information about what should be displayed on the web page. These documents can be referenced using the link tag or the script tag. The head tags also contain meta data that is used by search engines and other programmes that want a summary or keywords about the web page. The meta tag is used to define most of the meta data, some programmes will also use the title tag. The title will normally display in the top bar or tab of the web browser
 
-The body tags contain all the elements that make up the main content of the web page.
+The body tags contain all the elements that make up the main content of the web page. The tag with an exclamation mark and two hyphens is a comment. It is used to add notes to the HTML document that won't be displayed.
 
 To make a valid HTML web page the DOCTYPE must be declared and the html tags must contain head and body sections.
 
