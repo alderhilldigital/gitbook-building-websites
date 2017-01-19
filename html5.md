@@ -49,14 +49,14 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<head>` | Defines the information about the document. Will contain other tags that define information about the web page including style, scripts and meta data. |
 | `<body>` | Defines the document body. This will contain all the elements that make up the main content of the web page. It will contain many other tags and subsets of tags. |
 | `<a>` | Defines a hyperlink. A hyperlink is used to connect to a document and sometimes a particular point in a document. It uses the href attribute to define the hyperlink destination. |
-| `<div>` | Defines a division. A division separates the page into structural components. It is mostly used for deigning and lying out of the web page. |
+| `<div>` | Defines a division. A division separates the page into structural components. It is mostly used for designing and lying out of the web page. |
 | `<table>` | Defines a table consisting of rows and columns. The table can also be split into header, body and footer. |
-| `<thead>` |  |
-| `<tr>` |  |
-| `<th>` |  |
-| `<tbody>` |  |
-| `<td>` |  |
-| `<tfoot>` |  |
+| `<thead>` | Groups table elements into a header. Normally consists of a table row containing table header cells. |
+| `<tr>` | Defines a table row. A table row can contain table cells or table header cells. |
+| `<th>` | Defines a table header cell. |
+| `<tbody>` | Groups table elements into the main table body. |
+| `<td>` | Defines a table cell. |
+| `<tfoot>` | Group\[s table elements into a footer. |
 
 &lt;audio&gt;    Defines sound content
 
@@ -108,5 +108,5 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;u&gt;    Defines text that should be stylistically different from normal text
 
-&lt;ul&gt;    Defines an unordered list
+&lt;ul&gt;    Defines an unordered listGroups 
 
