@@ -58,11 +58,7 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<td>` |  |
 | `<tfoot>` |  |
 
-&lt;!--...--&gt;Defines a comment
 
-&lt;!DOCTYPE&gt;     Defines the document type
-
-&lt;a&gt;    Defines a hyperlink
 
 &lt;audio&gt;    Defines sound content
 
@@ -70,13 +66,9 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;blockquote&gt;    Defines a section that is quoted from another source
 
-&lt;body&gt;    Defines the document's body
-
 &lt;br&gt;    Defines a single line break
 
 &lt;button&gt;    Defines a clickable button
-
-&lt;div&gt;    Defines a section in a document
 
 &lt;em&gt;    Defines emphasized text
 
@@ -84,11 +76,7 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;h1&gt; to &lt;h6&gt;    Defines HTML headings
 
-&lt;head&gt;    Defines information about the document
-
 &lt;hr&gt;    Defines a thematic change in the content
-
-&lt;html&gt;    Defines the root of an HTML document
 
 &lt;img&gt;    Defines an image
 
@@ -116,23 +104,9 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;style&gt;    Defines style information for a document
 
-&lt;table&gt;    Defines a table
-
-&lt;tbody&gt;    Groups the body content in a table
-
-&lt;td&gt;    Defines a cell in a table
-
 &lt;textarea&gt;    Defines a multiline input control \(text area\)
 
-&lt;tfoot&gt;    Groups the footer content in a table
-
-&lt;th&gt;    Defines a header cell in a table
-
-&lt;thead&gt;    Groups the header content in a table
-
 &lt;title&gt;    Defines a title for the document
-
-&lt;tr&gt;    Defines a row in a table
 
 &lt;u&gt;    Defines text that should be stylistically different from normal text
 
