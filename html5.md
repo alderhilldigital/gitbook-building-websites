@@ -39,94 +39,91 @@ The body tags contain all the elements that make up the main content of the web 
 
 To make a valid HTML web page the DOCTYPE must be declared and the html tags must contain head and body sections.
 
-
-
 # Tags
 
 | Tag | Description |
-| :-- | :------ |
-| &lt;!-- --&gt; | Defines a comment tag. Comment tags are used to annotate HTML code. They will not display on a web page. |
-| &lt;!DOCTYPE&gt; | Defines the document type. In most cases this will be html. There are older versions of html doctypes as well as completely different types e.g. XML |
+| :--- | :--- |
+| `<!-- -->` | Defines a comment tag. Comment tags are used to annotate HTML code. They will not display on a web page. |
+| `<!DOCTYPE>` | Defines the document type. In most cases this will be html. There are older versions of html doctypes as well as completely different types e.g. XML |
+| `<a>` | Defines a hyperlink. A hyperlink is used to connect to a document and sometimes a particular point in a document. It uses the href attribute to define the hyperlink destination. |
 
 &lt;!--...--&gt;Defines a comment
 
-&lt;!DOCTYPE&gt; 	Defines the document type
+&lt;!DOCTYPE&gt;     Defines the document type
 
-&lt;a&gt;	Defines a hyperlink
+&lt;a&gt;    Defines a hyperlink
 
-&lt;audio&gt;	Defines sound content
+&lt;audio&gt;    Defines sound content
 
-&lt;b&gt;	Defines bold text
+&lt;b&gt;    Defines bold text
 
-&lt;blockquote&gt;	Defines a section that is quoted from another source
+&lt;blockquote&gt;    Defines a section that is quoted from another source
 
-&lt;body&gt;	Defines the document's body
+&lt;body&gt;    Defines the document's body
 
-&lt;br&gt;	Defines a single line break
+&lt;br&gt;    Defines a single line break
 
-&lt;button&gt;	Defines a clickable button
+&lt;button&gt;    Defines a clickable button
 
-&lt;div&gt;	Defines a section in a document
+&lt;div&gt;    Defines a section in a document
 
-&lt;em&gt;	Defines emphasized text 
+&lt;em&gt;    Defines emphasized text
 
-&lt;form&gt;	Defines an HTML form for user input
+&lt;form&gt;    Defines an HTML form for user input
 
-&lt;h1&gt; to &lt;h6&gt;	Defines HTML headings
+&lt;h1&gt; to &lt;h6&gt;    Defines HTML headings
 
-&lt;head&gt;	Defines information about the document
+&lt;head&gt;    Defines information about the document
 
-&lt;hr&gt;	Defines a thematic change in the content
+&lt;hr&gt;    Defines a thematic change in the content
 
-&lt;html&gt;	Defines the root of an HTML document
+&lt;html&gt;    Defines the root of an HTML document
 
-&lt;img&gt;	Defines an image
+&lt;img&gt;    Defines an image
 
-&lt;input&gt;	Defines an input control
+&lt;input&gt;    Defines an input control
 
-&lt;label&gt;	Defines a label for an &lt;input&gt; element
+&lt;label&gt;    Defines a label for an &lt;input&gt; element
 
-&lt;li&gt;	Defines a list item
+&lt;li&gt;    Defines a list item
 
-&lt;link&gt;	Defines the relationship between a document and an external resource \(most used to link to style sheets\)
+&lt;link&gt;    Defines the relationship between a document and an external resource \(most used to link to style sheets\)
 
-&lt;ol&gt;	Defines an ordered list
+&lt;ol&gt;    Defines an ordered list
 
-&lt;option&gt;	Defines an option in a drop-down list
+&lt;option&gt;    Defines an option in a drop-down list
 
-&lt;p&gt;	Defines a paragraph
+&lt;p&gt;    Defines a paragraph
 
-&lt;script&gt;	Defines a client-side script
+&lt;script&gt;    Defines a client-side script
 
-&lt;select&gt;	Defines a drop-down list
+&lt;select&gt;    Defines a drop-down list
 
-&lt;span&gt;	Defines a section in a document
+&lt;span&gt;    Defines a section in a document
 
-&lt;strong&gt;	Defines important text
+&lt;strong&gt;    Defines important text
 
-&lt;style&gt;	Defines style information for a document
+&lt;style&gt;    Defines style information for a document
 
-&lt;table&gt;	Defines a table
+&lt;table&gt;    Defines a table
 
-&lt;tbody&gt;	Groups the body content in a table
+&lt;tbody&gt;    Groups the body content in a table
 
-&lt;td&gt;	Defines a cell in a table
+&lt;td&gt;    Defines a cell in a table
 
-&lt;textarea&gt;	Defines a multiline input control \(text area\)
+&lt;textarea&gt;    Defines a multiline input control \(text area\)
 
-&lt;tfoot&gt;	Groups the footer content in a table
+&lt;tfoot&gt;    Groups the footer content in a table
 
-&lt;th&gt;	Defines a header cell in a table
+&lt;th&gt;    Defines a header cell in a table
 
-&lt;thead&gt;	Groups the header content in a table
+&lt;thead&gt;    Groups the header content in a table
 
-&lt;title&gt;	Defines a title for the document
+&lt;title&gt;    Defines a title for the document
 
-&lt;tr&gt;	Defines a row in a table
+&lt;tr&gt;    Defines a row in a table
 
-&lt;u&gt;	Defines text that should be stylistically different from normal text
+&lt;u&gt;    Defines text that should be stylistically different from normal text
 
-&lt;ul&gt;	Defines an unordered list
-
-
+&lt;ul&gt;    Defines an unordered list
 
