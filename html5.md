@@ -49,16 +49,14 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<head>` | Defines the information about the document. Will contain other tags that define information about the web page including style, scripts and meta data. |
 | `<body>` | Defines the document body. This will contain all the elements that make up the main content of the web page. It will contain many other tags and subsets of tags. |
 | `<a>` | Defines a hyperlink. A hyperlink is used to connect to a document and sometimes a particular point in a document. It uses the href attribute to define the hyperlink destination. |
-| `<div>` |  |
-| `<table>` |  |
+| `<div>` | Defines a division. A division separates the page into structural components. It is mostly used for deigning and lying out of the web page. |
+| `<table>` | Defines a table consisting of rows and columns. The table can also be split into header, body and footer. |
 | `<thead>` |  |
 | `<tr>` |  |
 | `<th>` |  |
 | `<tbody>` |  |
 | `<td>` |  |
 | `<tfoot>` |  |
-
-
 
 &lt;audio&gt;    Defines sound content
 
