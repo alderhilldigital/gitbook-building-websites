@@ -15,7 +15,7 @@ An HTML5 document must contain certain tags to make it an HTML5 document.
 Example
 
 `<!DOCTYPE html>`  
- `  <html lang="en">`  
+`<html lang="en">`  
 `<head>`  
 `<meta charset="utf-8">`  
 `<title>title</title>`  
@@ -24,7 +24,7 @@ Example
 `</head>`  
 `<body>`  
 `<!-- page content -->`  
-`</body>`   
+`</body>`  
 `</html>`
 
 We will go through each of the tags in the example and give some more details about how and why they are used.
