@@ -45,7 +45,7 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | :--- | :--- |
 | `<!-- -->` | Defines a comment tag. Comment tags are used to annotate HTML code. They will not display on a web page. |
 | `<!DOCTYPE>` | Defines the document type. In most cases this will be html. There are older versions of html doctypes as well as completely different types e.g. XML |
-| &lt;head&gt; | Defines the information about the document. Will contain other tags that  |
+| `<head>` | Defines the information about the document. Will contain other tags that |
 | `<a>` | Defines a hyperlink. A hyperlink is used to connect to a document and sometimes a particular point in a document. It uses the href attribute to define the hyperlink destination. |
 |  |  |
 
