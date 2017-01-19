@@ -56,7 +56,10 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<th>` | Defines a table header cell. |
 | `<tbody>` | Groups table elements into the main table body. |
 | `<td>` | Defines a table cell. |
-| `<tfoot>` | Group\[s table elements into a footer. |
+| `<tfoot>` | Groups table elements into a footer. |
+| `<ul>` | Defines an unordered list |
+| `<ol>` | Defines an ordered list |
+| `<li>` | Defines a list item. List items are used in both ordered and unordered lists. |
 
 &lt;audio&gt;    Defines sound content
 
@@ -108,5 +111,5 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;u&gt;    Defines text that should be stylistically different from normal text
 
-&lt;ul&gt;    Defines an unordered listGroups 
+&lt;ul&gt;    Defines an unordered listGroups
 
