@@ -67,42 +67,29 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<li>` | Defines a list item. List items are used in both ordered and unordered lists. |
 | `<form>` | Defines a form. Form tags mainly contain input fields. When a form is submitted the data from the form is sent to the location specified in the action attribute of the form tag. |
 | `<input>` | Defines an input field. Input fields are used to enter information into a web page to be submitted into some other process. Inputs have many different types including text, integers and passwords. |
+| `<label>` | Defines a label. Labels are commonly used to label input fields as they can be associated with other elements using the for attribute. |
 | `<select>` | Defines a drop-down list. Drop-down lists contain option tags that list options that can be selected. |
-| `<option>` |  |
+| `<option>` | Defines an option for a drop-down list. |
+| `<textarea>` | Defines a multiline text input element. Similar to an input of type text, it allows for multiple lines to be entered. |
+| `<button>` | Defines a clickable button. Buttons can be used to perform some form actions or run scripts. |
+| `<b>` | Defines bold text |
+| `<strong>` | Defines important text. Visually the same as &lt;b&gt; tag. |
+| `<em>` | Defines emphasised text. |
+| `<i>` | Defines italic text. |
+| `<u>` | Defines text that should be stylistically different from normal text. |
+| `<h1>` to `<h6>` | Defines different sizes of HTML headers. These are mainly used for section titles, sub-titles etc. |
+| `<hr>` | Defines a horizontal rule. This is a line that runs across it's parent element, used to show divisions between sections. |
+| `<link>` | Defines a relationship between a document and another external resource. This is commonly used to create a link to a style sheet file. |
+| `<script>` | Defines a client-side script. Script tags are commonly used to insert javascript. The javascript can be directly inserted inside the script tags or the script tags can be used to link to an external script file. |
+| `<style>` |  |
 
 &lt;audio&gt;    Defines sound content
 
-&lt;b&gt;    Defines bold text
-
-&lt;button&gt;    Defines a clickable button
-
-&lt;em&gt;    Defines emphasized text
-
-&lt;form&gt;    Defines an HTML form for user input
-
-&lt;h1&gt; to &lt;h6&gt;    Defines HTML headings
-
-&lt;hr&gt;    Defines a thematic change in the content
-
-&lt;input&gt;    Defines an input control
-
-&lt;label&gt;    Defines a label for an &lt;input&gt; element
-
 &lt;link&gt;    Defines the relationship between a document and an external resource \(most used to link to style sheets\)
-
-&lt;option&gt;    Defines an option in a drop-down list
 
 &lt;script&gt;    Defines a client-side script
 
-&lt;select&gt;    Defines a drop-down list
-
-&lt;strong&gt;    Defines important text
-
 &lt;style&gt;    Defines style information for a document
 
-&lt;textarea&gt;    Defines a multiline input control \(text area\)
-
 &lt;title&gt;    Defines a title for the document
-
-&lt;u&gt;    Defines text that should be stylistically different from normal text
 
