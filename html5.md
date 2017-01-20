@@ -39,7 +39,7 @@ The body tags contain all the elements that make up the main content of the web 
 
 To make a valid HTML web page the DOCTYPE must be declared and the html tags must contain head and body sections.
 
-# Tags
+# Common Tags
 
 | Tag | Description |
 | :--- | :--- |
