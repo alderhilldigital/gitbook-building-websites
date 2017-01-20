@@ -81,15 +81,9 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<hr>` | Defines a horizontal rule. This is a line that runs across it's parent element, used to show divisions between sections. |
 | `<link>` | Defines a relationship between a document and another external resource. This is commonly used to create a link to a style sheet file. |
 | `<script>` | Defines a client-side script. Script tags are commonly used to insert javascript. The javascript can be directly inserted inside the script tags or the script tags can be used to link to an external script file. |
-| `<style>` |  |
+| `<style>` | Defines the style information for a document. Cascading Style Sheets \(CSS\) styles are added inside style tags to apply styling to HTML elements. |
+| `<title>` | Defines a title for the document. |
+| `<audio>` | Defines sound content. |
 
-&lt;audio&gt;    Defines sound content
 
-&lt;link&gt;    Defines the relationship between a document and an external resource \(most used to link to style sheets\)
-
-&lt;script&gt;    Defines a client-side script
-
-&lt;style&gt;    Defines style information for a document
-
-&lt;title&gt;    Defines a title for the document
 
