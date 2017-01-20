@@ -18,3 +18,5 @@ Embedded - style tags can be added to an HTML document. The content in these tag
 
 This will put a top margin of 10 pixels on all paragraph \(&lt;p&gt;\) tags.
 
+External - CSS can be put into a separate file that can be associate with one or more HTML documents. The association is made using
+
