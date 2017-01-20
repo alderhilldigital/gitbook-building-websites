@@ -53,6 +53,8 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<p>` | Defines a paragraph. |
 | `<br>` | Defines a line break. |
 | `<div>` | Defines a division. A division separates the page into structural components. It is mostly used for designing and lying out of the web page. |
+| `<span>` | Defines a section of a document. Similar to a division but displays inline by default. |
+| `<blockquote>` | Defines a section that is quoted from another source. The blockquote is normally indented with some margins at the top and bottom of the content. |
 | `<table>` | Defines a table consisting of rows and columns. The table can also be split into header, body and footer. |
 | `<thead>` | Groups table elements into a header. Normally consists of a table row containing table header cells. |
 | `<tr>` | Defines a table row. A table row can contain table cells or table header cells. |
@@ -63,12 +65,11 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<ul>` | Defines an unordered list |
 | `<ol>` | Defines an ordered list |
 | `<li>` | Defines a list item. List items are used in both ordered and unordered lists. |
+| `<form>` | Defines a form. Form tags mainly contain input fields. When a form is submitted the data from the form is sent to the location specified in the action attribute of the form tag. |
 
 &lt;audio&gt;    Defines sound content
 
 &lt;b&gt;    Defines bold text
-
-&lt;blockquote&gt;    Defines a section that is quoted from another source
 
 &lt;button&gt;    Defines a clickable button
 
@@ -88,13 +89,9 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 
 &lt;option&gt;    Defines an option in a drop-down list
 
-&lt;p&gt;    Defines a paragraph
-
 &lt;script&gt;    Defines a client-side script
 
 &lt;select&gt;    Defines a drop-down list
-
-&lt;span&gt;    Defines a section in a document
 
 &lt;strong&gt;    Defines important text
 
