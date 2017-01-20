@@ -66,6 +66,9 @@ To make a valid HTML web page the DOCTYPE must be declared and the html tags mus
 | `<ol>` | Defines an ordered list |
 | `<li>` | Defines a list item. List items are used in both ordered and unordered lists. |
 | `<form>` | Defines a form. Form tags mainly contain input fields. When a form is submitted the data from the form is sent to the location specified in the action attribute of the form tag. |
+| `<input>` | Defines an input field. Input fields are used to enter information into a web page to be submitted into some other process. Inputs have many different types including text, integers and passwords. |
+| `<select>` | Defines a drop-down list. Drop-down lists contain option tags that list options that can be selected. |
+| `<option>` |  |
 
 &lt;audio&gt;    Defines sound content
 
