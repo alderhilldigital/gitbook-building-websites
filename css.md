@@ -8,7 +8,13 @@ Inline - a style attribute can be added to any HTML element. The content of the 
 
 `<div style="background-color:red;"> Hello </div>`
 
-This will a div with the content "Hello" and will set the bacground background colour of the div to red.
+This will add a div with the content "Hello" and will set the bacground background colour of the div to red.
 
+Embedded - style tags can be added to an HTML document. The content in these tags is CSS that can be assigned to an HTML elements in the document.
 
+**Example**
+
+`<style> p{ margin-top: 10px; } </style>`
+
+This will put a top margin of 10 pixels on all paragraph \(&lt;p&gt;\) tags.
 
