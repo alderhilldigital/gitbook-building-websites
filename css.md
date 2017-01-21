@@ -22,5 +22,11 @@ External - CSS can be put into a separate file that can be associate with one or
 
 **Example**
 
-&lt;link rel="stylesheet" type="text/css" href="main.css"&gt;
+`<link rel="stylesheet" type="text/css" href="main.css">`
+
+This will associate the current document with a file called main.css that should contain CSS.
+
+## Selectors
+
+When using embedded or external CSS, selectors are used to assign the CSS to HTML elements.
 
