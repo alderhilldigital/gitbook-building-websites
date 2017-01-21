@@ -38,5 +38,13 @@ Tag type - selectors can use the tag type to assign a style to all tags of a par
 
 This will set the background colour of all divs in the associated document or documents.
 
-Class name - selectors can use an identifier assigned to the class attribute of an HTML element to assign styles. The identifier is prefixed with a full stop
+Class name - selectors can use an identifier assigned to the class attribute of an HTML element to assign styles. The identifier is prefixed with a full stop in CSS to indicate that it is using a class name.
+
+**Example**
+
+`.red_back { background-color: red; }`
+
+`<div class="red_back"> Hello </div>`
+
+
 
