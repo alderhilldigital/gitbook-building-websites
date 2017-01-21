@@ -8,7 +8,7 @@ Inline - a style attribute can be added to any HTML element. The content of the 
 
 `<div style="background-color:red;"> Hello </div>`
 
-This will add a div with the content "Hello" and will set the bacground background colour of the div to red.
+This will add a div with the content "Hello" and will set the background colour of the div to red.
 
 Embedded - style tags can be added to an HTML document. The content in these tags is CSS that can be assigned to an HTML elements in the document.
 
@@ -28,13 +28,15 @@ This will associate the current document with a file called main.css that should
 
 ### Selectors
 
-When using embedded or external CSS, selectors are used to assign the CSS to HTML elements.
+When using embedded or external CSS, selectors are used to assign the CSS to HTML elements. Selectors can use three types of identifiers when assigning the styles:
 
+Tag type - selectors can use the tag type to assign a style to all tags of a particular type. This is done by typing the tag type followed by curly brackets containing the CSS properties.
 
+**Example**
 
+`div { background-color: red; }`
 
+This will set the background colour of all divs in the associated document or documents.
 
-
-
-
+Class name - selectors can use an identifier assigned to the class attribute of an HTML element to assign styles. The identifier is prefixed with a full stop
 
