@@ -46,5 +46,5 @@ Class name - selectors can use an identifier assigned to the class attribute of 
 
 `<div class="red_back"> Hello </div>`
 
-
+This will set the background colour of any HTML element, with the class name red\_back, to red.
 
