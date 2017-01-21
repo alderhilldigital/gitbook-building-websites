@@ -52,5 +52,7 @@ id - selectors can use an identifier assigned to the id attribute of an HTML ele
 
 **Example**
 
-` #red_element { background-color: red; }`
+`#red_element { background-color: red; }`
+
+&lt;div id="red\_element"&gt; Hello &lt;/div&gt;
 
