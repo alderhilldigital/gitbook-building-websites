@@ -60,7 +60,5 @@ This will set the background colour of the HTML element, with the id red\_elemen
 
 ### Properties
 
-Properties are the identifiers for the
-
-
+Properties are the identifiers for what style is going to be set. Properties 
 
