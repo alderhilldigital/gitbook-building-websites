@@ -26,7 +26,15 @@ External - CSS can be put into a separate file that can be associate with one or
 
 This will associate the current document with a file called main.css that should contain CSS.
 
-## Selectors
+### Selectors
 
 When using embedded or external CSS, selectors are used to assign the CSS to HTML elements.
+
+
+
+
+
+
+
+
 
