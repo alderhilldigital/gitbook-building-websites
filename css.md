@@ -58,5 +58,9 @@ id - selectors can use an identifier assigned to the id attribute of an HTML ele
 
 This will set the background colour of the HTML element, with the id red\_element, to red. Since the id attribute should be unique in an HTML document, the style will only be applied to that element.
 
+### Properties
+
+Properties are the identifiers for the
+
 
 
