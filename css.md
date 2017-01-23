@@ -68,12 +68,13 @@ Properties are the identifiers for what style is going to be set. A colon and th
 
 ### Common Properties
 
-| Property | Value |
+| Property | Description of Value |
 | :--- | :--- |
-| color |  |
-| background-color |  |
-| background-image |  |
-| border- |  |
+| color | This will set the foreground color that normally equates the the colour of the text. Can be a colour name or hexadecimal colour value. |
+| background-color | This will set the background colour. Can be a colour name or hexadecimal colour value. |
+| background-image | This will set the image used for the background of an element. Other properties can be used to define it's size, position and tiling. |
+| border-width | This will set the width of an element's border. Normally set in pixels. |
+| border-color | This will set the colour of an element's border. Can be a colour name or hexadecimal colour value.  |
 
 
 
