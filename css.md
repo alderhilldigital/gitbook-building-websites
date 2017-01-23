@@ -79,7 +79,10 @@ Properties are the identifiers for what style is going to be set. A colon and th
 | margin | This will specify the margin for an element. Usually set in pixels or percentages. |
 | height | This will set the height for an element. |
 | width | This will set the width for an element. |
-| left | This will set the distance from the left hand edge of the parent element |
+| left | This will set the distance from the left hand edge of the parent element. |
+| right | This will set the distance from the right hand edge of the parent element. |
+| top | This will set the distance from the top edge of the parent element. |
+| bottom | This will set the distance from the bottom edge of the parent element. |
 
 
 
