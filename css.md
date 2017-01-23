@@ -94,15 +94,7 @@ Properties are the identifiers for what style is going to be set. A colon and th
 
 CSS uses the box model with regards to layout of elements in an HTML document. Each elements consists of a box that contains a series of boxes inside it. The outer box contains the whole element. The next box in is spaced by a margin from the outer box. The next box in is spaced by padding from the margin box and contains the main content of the element.
 
-------------------------------------------------------  
-\|                       margin                        \|  
-\|        ---------------------------------------        \|  
-\|       \|               padding              \|       \|  
-\|       \|        -----------------------          \|       \|  
-\|       \|       \|      content      \|         \|       \|  
-\|       \|        -----------------------          \|       \|  
-\|        ---------------------------------------        \|  
-------------------------------------------------------
-
-
-
+  
+|margin|   
+|--|padding|--|  
+|--|--|content|--|--|
