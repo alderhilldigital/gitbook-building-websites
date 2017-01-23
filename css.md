@@ -88,6 +88,13 @@ Properties are the identifiers for what style is going to be set. A colon and th
 | text-align | This sets the text alignment for the content of an element. Can be left, center or right. |
 | font-size | This sets the font size for the content of an element. Usually set in pixels or ems \(width of a standard character. |
 | font-weight | This sets the font weight for the content of an element. Can be normal, bold, bolder, lighter or a numerical value between 100 and 900 at 100 intervals. |
+| font-family | This sets the font for the content of an element. |
+
+
+
+### Box Model
+
+
 
 
 
