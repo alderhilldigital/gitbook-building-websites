@@ -66,3 +66,9 @@ Properties are the identifiers for what style is going to be set. A colon and th
 
 `div { color: blue; font-size: 10px; }`
 
+### Common Properties
+
+
+
+
+
