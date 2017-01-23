@@ -90,11 +90,19 @@ Properties are the identifiers for what style is going to be set. A colon and th
 | font-weight | This sets the font weight for the content of an element. Can be normal, bold, bolder, lighter or a numerical value between 100 and 900 at 100 intervals. |
 | font-family | This sets the font for the content of an element. |
 
-
-
 ### Box Model
 
+CSS uses the box model with regards to layout of elements in an HTML document. Each elements consists of a box that contains a series of boxes inside it. The outer box contains the whole element. The next box in is spaced by a margin from the outer box. The next box in is spaced by padding from the margin box and contains the main content of the element.
 
+------------------------------------------------------  
+\|                       margin                        \|  
+\|        ---------------------------------------        \|  
+\|       \|               padding              \|       \|  
+\|       \|        -----------------------          \|       \|  
+\|       \|       \|      content      \|         \|       \|  
+\|       \|        -----------------------          \|       \|  
+\|        ---------------------------------------        \|  
+------------------------------------------------------
 
 
 
