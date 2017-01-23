@@ -68,7 +68,12 @@ Properties are the identifiers for what style is going to be set. A colon and th
 
 ### Common Properties
 
-
+| Property | Value |
+| :--- | :--- |
+| color |  |
+| background-color |  |
+| background-image |  |
+| border- |  |
 
 
 
