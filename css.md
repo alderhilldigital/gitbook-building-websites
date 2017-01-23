@@ -74,7 +74,12 @@ Properties are the identifiers for what style is going to be set. A colon and th
 | background-color | This will set the background colour. Can be a colour name or hexadecimal colour value. |
 | background-image | This will set the image used for the background of an element. Other properties can be used to define it's size, position and tiling. |
 | border-width | This will set the width of an element's border. Normally set in pixels. |
-| border-color | This will set the colour of an element's border. Can be a colour name or hexadecimal colour value.  |
+| border-color | This will set the colour of an element's border. Can be a colour name or hexadecimal colour value. |
+| float | This will specify if an element will float. Can be left, right or none. |
+| margin | This will specify the margin for an element. Usually set in pixels or percentages. |
+| height | This will set the height for an element. |
+| width | This will set the width for an element. |
+| left | This will set the distance from the left hand edge of the parent element |
 
 
 
