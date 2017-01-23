@@ -60,5 +60,9 @@ This will set the background colour of the HTML element, with the id red\_elemen
 
 ### Properties
 
-Properties are the identifiers for what style is going to be set. The identifier is followed by a colon and then the value to which the property is going to be set.
+Properties are the identifiers for what style is going to be set. A colon and then the value to which the property is going to be set follow the identifier. The definition for a property finishes with a semi-colon.
+
+**Example**
+
+`div { color: blue; font-size: 10px; }`
 
