@@ -110,8 +110,8 @@ As well as common styles for HTML elements, CSS can do style transitions and tra
 
 **Example**
 
-`#animate_me { width: 100px; transition: width 1s; }  
- #animate_me:hover { width: 300px; }`
+`#animate_me { width: 100px; transition: width 1s; }`
+`#animate_me:hover { width: 300px; }`
 
 This will set the with set the width of the element named 'animate\_me' to 100 pixels. When the cursor hovers over the element it will animate to 300 pixels wide over a period of 1 second.
 
