@@ -102,3 +102,20 @@ This will round the corners of an element and is available in CSS version 3 an h
 
 CSS uses the box model with regards to layout of elements in an HTML document. Each elements consists of a box that contains a series of boxes inside it. The outer box contains the whole element. The next box in is spaced by a margin from the outer box. The next box in is spaced by padding from the margin box and contains the main content of the element.
 
+### Advanced CSS
+
+As well as common styles for HTML elements, CSS can do style transitions and transformations.
+
+**Transitions** allow the control of how an element changes from one style to another. They can be used to make the element be animated over a specified period of time.
+
+**Example**
+
+`#animate_me { width: 100px; transition: width 1s; }  
+ #animate_me:hover { width: 300px; }`
+
+This will set the with set the width of the element named 'animate\_me' to 100 pixels. When the cursor hovers over the element it will animate to 300 pixels wide over a period of 1 second.
+
+**Transformations** allow the 2D and 3D rendering of an element to be changed. This includes moving, turning and scaling elements in both 2 and 3 dimensions.
+
+**Example**
+
