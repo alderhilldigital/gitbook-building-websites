@@ -5,5 +5,5 @@
 * [HTML5](html5.md)
 * [CSS](css.md)
 * [Javascript](javascript.md)
-* Good Programming Practices
+* [Good Programming Practices](good-programming-practices.md)
 
