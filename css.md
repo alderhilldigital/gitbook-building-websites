@@ -110,7 +110,7 @@ As well as common styles for HTML elements, CSS can do style transitions and tra
 
 **Example**
 
-`#animate_me { width: 100px; transition: width 1s; }`
+`#animate_me { width: 100px; transition: width 1s; }`  
 `#animate_me:hover { width: 300px; }`
 
 This will set the with set the width of the element named 'animate\_me' to 100 pixels. When the cursor hovers over the element it will animate to 300 pixels wide over a period of 1 second.
@@ -118,4 +118,12 @@ This will set the with set the width of the element named 'animate\_me' to 100 p
 **Transformations** allow the 2D and 3D rendering of an element to be changed. This includes moving, turning and scaling elements in both 2 and 3 dimensions.
 
 **Example**
+
+`#turn_me { transform: rotate(90deg); }`
+
+This will rotate the element named 'turn\_me' 90 degrees clockwise.
+
+`#turn_me { transform: rotateY(180deg); }`
+
+This will rotate the element named 'turn\_me' 180 degrees clockwise around the Y axis.
 
