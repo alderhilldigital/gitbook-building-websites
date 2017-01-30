@@ -47,3 +47,5 @@ Javascript is commonly used to update the elements of the DOM.
 
 This will set the width of the element with the id "test" to 300px.
 
+
+
