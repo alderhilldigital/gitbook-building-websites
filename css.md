@@ -127,3 +127,11 @@ This will rotate the element named 'turn\_me' 90 degrees clockwise.
 
 This will rotate the element named 'turn\_me' 180 degrees clockwise around the Y axis.
 
+**Transparencies** allow HTML elements to be made more or less transparent by using the 'opacity' property.
+
+**Example**
+
+`#see_through_me { opacity: 0.5; }`
+
+This will set the transparency of the element named 'see\_through\_me' to 0.5, which is 50% see-through. 1 is not transparent and 0 is completely transparent.
+
