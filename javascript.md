@@ -47,5 +47,11 @@ Javascript is commonly used to update the elements of the DOM.
 
 This will set the width of the element with the id "test" to 300px.
 
+### Common Properties
+
+| Property | Description of Value |
+| :--- | :--- |
+| style | This sets the style of an element using sub-properties that correspond to CSS styles except the names are camel case instead of hyphenated. e.g. backgroundColor instead of background-color and fontSize instead of font-size. |
+
 
 
