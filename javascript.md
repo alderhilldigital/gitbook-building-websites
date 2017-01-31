@@ -51,7 +51,11 @@ This will set the width of the element with the id "test" to 300px.
 
 | Property | Description of Value |
 | :--- | :--- |
-| style | This sets the style of an element using sub-properties that correspond to CSS styles except the names are camel case instead of hyphenated. e.g. backgroundColor instead of background-color and fontSize instead of font-size. |
+| style | This is the style of an element using sub-properties that correspond to CSS styles except the names are camel case instead of hyphenated. e.g. backgroundColor instead of background-color and fontSize instead of font-size. |
+| innerHTML | This is the HTML that is extracted from inside the element's tags. |
+| children | This is a collection of the HTML elements extracted from inside the element's tags. |
+| attributes | This is a collection of the attributes extracted from inside the opening tag of the element. An individual attribute can be extracted by passing an identifier to the attributes collection e.g. document.getElementById\('test'\).attributes\('id'\) |
+| length | This is the number of items in a collection that can be used on any property that returns a collection e.g. document.getElementById\('test'\).children.length |
 
 
 
